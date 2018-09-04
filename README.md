@@ -1,3 +1,9 @@
+# 设计模式是形式化的最佳实践，程序员可以在设计应用程序或系统时使用它来解决常见问题。
+
+# 设计模式可以通过提供经过验证的经过验证的开发范例来加速开发过程。
+
+# 重用设计模式有助于防止可能导致重大问题的细微问题，并且还可以提高熟悉模式的编码人员和架构师的代码可读性。
+
 <!-- the line below needs to be an empty line C: (its because kramdown isnt
      that smart and dearly wants an empty line before a heading to be able to
      display it as such, e.g. website) -->
